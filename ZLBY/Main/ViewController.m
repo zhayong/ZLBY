@@ -16,8 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"test");
-    NSLog(@"hello molake");NSLog(@"hello molake");NSLog(@"hello molake");NSLog(@"hello molake");NSLog(@"hello molake");NSLog(@"hello molake");NSLog(@"hello molake");NSLog(@"hello molake");NSLog(@"hello molake");NSLog(@"hello molake");
+    NSLog(@"push to molake fetch");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
