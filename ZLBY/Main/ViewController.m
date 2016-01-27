@@ -16,9 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"test");
-    NSLog(@"hello molake");
-    NSLog(@"hello master");
+    NSLog(@"first commit");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
